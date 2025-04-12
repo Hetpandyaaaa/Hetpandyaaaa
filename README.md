@@ -16,10 +16,7 @@
 <p>
 <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" />
 </p>
-### ⚙️ Backend Development
-<p>
-<img src="https://img.shields.io/badge/Django-43853D?style=flat&logo=django" alt="Django" />
-</p>
+
 ### 🛢 Database
 <p>
 <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL" />
